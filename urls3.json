@@ -1,0 +1,961 @@
+{
+    "websites": [
+        {
+            "category": "Amazing Websites",
+            "items": [
+                {
+                    "urlTitle": "Minh Phan Design",
+                    "url": "https://minhpham.design/"
+                },
+                {
+                    "urlTitle": "Michael Pumo",
+                    "url": "https://michaelpumo.com/"
+                },
+                {
+                    "urlTitle": "1917 Movie",
+                    "url": "https://intothetrenches.1917.movie/"
+                },
+                {
+                    "urlTitle": "Godly Website",
+                    "url": "https://godly.website/"
+                }
+            ]
+        },
+        {
+            "category": "Images & Fonts",
+            "items": [
+                {
+                    "urlTitle": "Pixabay - Free Videos",
+                    "url": "https://pixabay.com/videos/"
+                },
+                {
+                    "urlTitle": "Pexels - Free Images & Videos",
+                    "url": "https://www.pexels.com/"
+                },
+                {
+                    "urlTitle": "Vecteezy - Free Images, Vector Art & Videos",
+                    "url": "https://www.vecteezy.com/"
+                },
+                {
+                    "urlTitle": "FreePik",
+                    "url": "https://www.freepik.com/"
+                },
+                {
+                    "urlTitle": "Fontawesome",
+                    "url": "https://fontawesome.com/"
+                },
+                {
+                    "urlTitle": "Google Fonts",
+                    "url": "https://fonts.google.com/"
+                },
+                {
+                    "urlTitle": "Adobe Stock",
+                    "url": "https://stock.adobe.com/"
+                },
+                {
+                    "urlTitle": "Font Source",
+                    "url": "https://fontsource.org/"
+                },
+                {
+                    "urlTitle": "Font Converter",
+                    "url": "https://fontconverter.com/"
+                },
+                {
+                    "urlTitle": "Everything Fonts",
+                    "url": "https://everythingfonts.com/"
+                },
+                {
+                    "urlTitle": "UnSplash",
+                    "url": "https://unsplash.com/"
+                }
+            ]
+        },
+        {
+            "category": "Resources",
+            "items": [
+                {
+                    "urlTitle": "Google Firebase Console",
+                    "url": "https://console.firebase.google.com/"
+                },
+                {
+                    "urlTitle": "Google Developers Console",
+                    "url": "https://console.developers.google.com/"
+                },
+                {
+                    "urlTitle": "Azure Portal",
+                    "url": "https://portal.azure.com/"
+                },
+                {
+                    "urlTitle": "ChatGPT",
+                    "url": "https://chat.openai.com/"
+                },
+                {
+                    "urlTitle": "Github",
+                    "url": "https://github.com/"
+                },
+                {
+                    "urlTitle": "JSFiddle",
+                    "url": "https://jsfiddle.net/"
+                },
+                {
+                    "urlTitle": "CodePen",
+                    "url": "https://codepen.io/"
+                },
+                {
+                    "urlTitle": "Trello",
+                    "url": "https://trello.com/"
+                },
+                {
+                    "urlTitle": "Microsoft PowerToys",
+                    "url": "https://learn.microsoft.com/en-us/windows/powertoys/"
+                }
+            ]
+        },
+        {
+            "category": "Webflow",
+            "items": [
+                {
+                    "urlTitle": "Webflow",
+                    "url": "https://webflow.com/"
+                },
+                {
+                    "urlTitle": "Webflow University",
+                    "url": "https://university.webflow.com/"
+                },
+                {
+                    "urlTitle": "Webflow YouTube",
+                    "url": "https://www.youtube.com/@webflow"
+                },
+                {
+                    "urlTitle": "Webflow Community",
+                    "url": "https://webflow.com/made-in-webflow/learning"
+                },
+                {
+                    "urlTitle": "Webflow Resources",
+                    "url": "https://uxplanet.org/learning-webflow-the-definitive-guide-aac19095e494"
+                },
+                {
+                    "urlTitle": "Webflow Beginner",
+                    "url": "https://janlosert.medium.com/webflow-uncovered-the-easiest-guide-for-beginners-45358aa5839d"
+                },
+                {
+                    "urlTitle": "Flowbase (templates)",
+                    "url": "https://www.flowbase.co/"
+                },
+                {
+                    "urlTitle": "Flowmance (templates)",
+                    "url": "https://www.flowmance.com/"
+                }
+            ]
+        },
+        {
+            "category": "Figma",
+            "items": [
+                {
+                    "urlTitle": "Figma",
+                    "url": "https://www.figma.com/"
+                },
+                {
+                    "urlTitle": "Figma Plugins",
+                    "url": "https://www.figma.com/community/plugins"
+                },
+                {
+                    "urlTitle": "Vectary (3D Design Studio)",
+                    "url": "https://www.vectary.com/"
+                },
+                {
+                    "urlTitle": "Isometric Design (1)",
+                    "url": "https://vizartpandey.com/isometric-designing-in-figma/"
+                },
+                {
+                    "urlTitle": "Isometric Design (2)",
+                    "url": "https://uxplanet.org/good-ui-ux-designers-know-most-of-these-7-isometric-figma-plugins-bb261f0f9861"
+                },
+                {
+                    "urlTitle": "Locofi (AI Assistant)",
+                    "url": "https://www.locofy.ai/"
+                },
+                {
+                    "urlTitle": "Gillde - Recommended Plugins",
+                    "url": "https://gillde.com/best-figma-plugins/"
+                },
+                {
+                    "urlTitle": "UXPlanet - Recommended Plugins",
+                    "url": "https://uxplanet.org/20-figma-plugins-every-designer-must-have-9bd6f1733780"
+                },
+                {
+                    "urlTitle": "VisualEyes - Recommended Plugins",
+                    "url": "https://blog.visualeyes.design/10+1-Must-Have-Figma-plugins"
+                }
+            ]
+        },
+        {
+            "category": "3D",
+            "items": [
+                {
+                    "urlTitle": "Vectary (3D Design Studio)",
+                    "url": "https://www.vectary.com/"
+                },
+                {
+                    "urlTitle": "Adobe 3D",
+                    "url": "https://www.adobe.com/creativecloud/3d-ar/campaign/pricing.html"
+                },
+                {
+                    "urlTitle": "Spline (3D)",
+                    "url": "https://spline.design/"
+                },
+                {
+                    "urlTitle": "Three JS",
+                    "url": "https://threejs.org/"
+                },
+                {
+                    "urlTitle": "Plasticity",
+                    "url": "https://www.plasticity.xyz/"
+                },
+                {
+                    "urlTitle": "SketchFab",
+                    "url": "https://sketchfab.com/"
+                }
+            ]
+        },
+        {
+            "category": "Mockups",
+            "items": [
+                {
+                    "urlTitle": "MockRocket (3D Design Mockups)",
+                    "url": "https://mockrocket.io/"
+                },
+                {
+                    "urlTitle": "Rotato (Mockup)",
+                    "url": "https://rotato.app/"
+                },
+                {
+                    "urlTitle": "PlaceIt",
+                    "url": "https://placeit.net/"
+                },
+                {
+                    "urlTitle": "Mock.Video",
+                    "url": "https://www.mock.video/"
+                },
+                {
+                    "urlTitle": "Angle (3D Design Mockups)",
+                    "url": "https://angle.sh/"
+                },
+                {
+                    "urlTitle": "Previewed",
+                    "url": "https://previewed.app/"
+                },
+                {
+                    "urlTitle": "Artboard Studio",
+                    "url": "https://artboard.studio/"
+                },
+                {
+                    "urlTitle": "Jitter",
+                    "url": "https://jitter.video"
+                },
+                {
+                    "urlTitle": "Vexus Digital",
+                    "url": "https://vexus.digital"
+                }
+            ]
+        },
+        {
+            "category": "Email",
+            "items": [
+                {
+                    "urlTitle": "MJML",
+                    "url": "https://mjml.io/"
+                },
+                {
+                    "urlTitle": "Can I Email",
+                    "url": "https://www.caniemail.com/"
+                },
+                {
+                    "urlTitle": "Email2Go (Email Testing)",
+                    "url": "https://email2go.io/"
+                },
+                {
+                    "urlTitle": "Google Email Markup Tester",
+                    "url": "https://www.google.com/webmasters/markup-tester/"
+                },
+                {
+                    "urlTitle": "Sirv (serve email images)",
+                    "url": "https://sirv.com/"
+                }
+            ]
+        },
+        {
+            "category": "YOUTUBE",
+            "items": [
+                {
+                    "urlTitle": "Web Dev Simplified",
+                    "url": "https://www.youtube.com/@webdevsimplified"
+                },
+                {
+                    "urlTitle": "Satori",
+                    "url": "https://www.youtube.com/@satorigraphics"
+                },
+                {
+                    "urlTitle": "Color Code",
+                    "url": "https://www.youtube.com/@colorcodeio"
+                },
+                {
+                    "urlTitle": "Net Ninja",
+                    "url": "https://www.youtube.com/@netninja"
+                },
+                {
+                    "urlTitle": "CodeVolution",
+                    "url": "https://www.youtube.com/@Codevolution"
+                },
+                {
+                    "urlTitle": "PIXImperfect",
+                    "url": "https://www.youtube.com/@piximperfect"
+                },
+                {
+                    "urlTitle": "Panter Vision",
+                    "url": "https://www.youtube.com/@PANTERvision"
+                },
+                {
+                    "urlTitle": "Blender Official",
+                    "url": "https://www.youtube.com/@BlenderOfficial"
+                },
+                {
+                    "urlTitle": "Blender Guru",
+                    "url": "https://www.youtube.com/@BlenderGuru"
+                },
+                {
+                    "urlTitle": "Inkscape",
+                    "url": "https://www.youtube.com/watch?v=AAhVqLyKk4U"
+                },
+                {
+                    "urlTitle": "Davinci Resolve",
+                    "url": "https://www.youtube.com/watch?v=qDHnCFMZ9HA"
+                }
+            ]
+        },
+        {
+            "category": "Graphic Design Principles",
+            "items": [
+                {
+                    "urlTitle": "Gestalt Principles",
+                    "url": "https://www.youtube.com/watch?v=G-xD1bDoNl4&t=156s"
+                },
+                {
+                    "urlTitle": "Visual Perception",
+                    "url": "https://www.youtube.com/watch?v=ZlkcuS5iw4w&t=64s"
+                },
+                {
+                    "urlTitle": "Layout Design - Golden Rules",
+                    "url": "https://www.youtube.com/watch?v=EFf9jBs2yfU"
+                },
+                {
+                    "urlTitle": "Advanced Hierarchy",
+                    "url": "https://www.youtube.com/watch?v=vDe1els66t8"
+                },
+                {
+                    "urlTitle": "Essential Graphic Design Theory",
+                    "url": "https://www.youtube.com/watch?v=cQOIDhZfJkA"
+                },
+                {
+                    "urlTitle": "Advanced Color Theory",
+                    "url": "https://www.youtube.com/watch?v=XNkV6m4fosw"
+                },
+                {
+                    "urlTitle": "Minimal Graphic Design",
+                    "url": "https://www.youtube.com/watch?v=2mO5DiX4ipU"
+                },
+                {
+                    "urlTitle": "Typography",
+                    "url": "https://www.youtube.com/watch?v=a4Pj9MAPtuo"
+                },
+                {
+                    "urlTitle": "Font Pairing",
+                    "url": "https://www.youtube.com/watch?v=kew6UGCaPQs"
+                },
+                {
+                    "urlTitle": "Font Pairing Concepts",
+                    "url": "https://www.linearity.io/blog/font-pairing/"
+                },
+                {
+                    "urlTitle": "Font Pairing Using Contrast",
+                    "url": "https://www.youtube.com/watch?v=pbv78zGoVC8"
+                }
+            ]
+        },
+        {
+            "category": "Reference",
+            "items": [
+                {
+                    "urlTitle": "CSS-Tricks",
+                    "url": "https://css-tricks.com/almanac/"
+                },
+                {
+                    "urlTitle": "JavaScript",
+                    "url": "https://javascript.info/"
+                },
+                {
+                    "urlTitle": "CodeProject",
+                    "url": "https://reference.codeproject.com/"
+                },
+                {
+                    "urlTitle": "Jenkov",
+                    "url": "https://jenkov.com/tutorials/css/index.html"
+                },
+                {
+                    "urlTitle": "SVG Advanced (Learn The Web)",
+                    "url": "https://learntheweb.courses/topics/advanced-svg/"
+                },
+                {
+                    "urlTitle": "Learn The Web",
+                    "url": "https://learntheweb.courses/"
+                },
+                {
+                    "urlTitle": "SVG Pocket Guide",
+                    "url": "https://svgpocketguide.com/"
+                }
+            ]
+        },
+        {
+            "category": "Instagram Inspirations",
+            "items": [
+                {
+                    "urlTitle": "We Love Web Design",
+                    "url": "https://www.instagram.com/welovewebdesign"
+                },
+                {
+                    "urlTitle": "Daily Web Design",
+                    "url": "https://www.instagram.com/dailywebdesign"
+                },
+                {
+                    "urlTitle": "Giga Tamarashvili",
+                    "url": "https://www.instagram.com/gtamarashvili/"
+                },
+                {
+                    "urlTitle": "Web Inspirations",
+                    "url": "https://www.instagram.com/web.inspirations/"
+                },
+                {
+                    "urlTitle": "Team Code Design",
+                    "url": "https://www.instagram.com/teamcodesign/"
+                },
+                {
+                    "urlTitle": "Two Habit Design",
+                    "url": "https://www.instagram.com/twohabitsdesign/"
+                },
+                {
+                    "urlTitle": "Code By Dennis",
+                    "url": "https://www.instagram.com/codebydennis/"
+                }
+            ]
+        },
+        {
+            "category": "Instagram Coding",
+            "items": [
+                {
+                    "urlTitle": "Coding Beast",
+                    "url": "https://www.instagram.com/coding.beast/"
+                },
+                {
+                    "urlTitle": "Coder Journey",
+                    "url": "https://www.instagram.com/coder.journey/"
+                },
+                {
+                    "urlTitle": "The Indian Dev",
+                    "url": "https://www.instagram.com/theindiandev/"
+                },
+                {
+                    "urlTitle": "Alen Varazdinac",
+                    "url": "https://www.instagram.com/alenvarazdinac/"
+                },
+                {
+                    "urlTitle": "Javascript Mastery",
+                    "url": "https://www.instagram.com/javascriptmastery/"
+                },
+                {
+                    "urlTitle": "Get Bit Code",
+                    "url": "https://www.instagram.com/getbitcode/"
+                },
+                {
+                    "urlTitle": "New Javascript",
+                    "url": "https://www.instagram.com/new_javascript/"
+                }
+            ]
+        },
+        {
+            "category": "Color Tools",
+            "items": [
+                {
+                    "urlTitle": "Coolers (Color Palettes)",
+                    "url": "https://coolors.co/"
+                },
+                {
+                    "urlTitle": "Canva Color Wheel",
+                    "url": "https://www.canva.com/colors/color-wheel/"
+                },
+                {
+                    "urlTitle": "Adobe Color Wheel",
+                    "url": "https://color.adobe.com/create/color-wheel"
+                },
+                {
+                    "urlTitle": "Colorizer - Palette",
+                    "url": "https://colorizer.org/"
+                },
+                {
+                    "urlTitle": "Color Converter",
+                    "url": "https://easyretro.io/tools/hex-to-hsl/"
+                },
+                {
+                    "urlTitle": "CCColor (color picker)",
+                    "url": "https://fffuel.co/cccolor/"
+                },
+                {
+                    "urlTitle": "Color Converter",
+                    "url": "https://www.doozytools.com/color-tools/color-converter"
+                },
+                {
+                    "urlTitle": "OKLCH",
+                    "url": "https://oklch.com/"
+                }
+            ]
+        },
+        {
+            "category": "General Tools",
+            "items": [
+                {
+                    "urlTitle": "fffuel (check this out)",
+                    "url": "https://fffuel.co/"
+                },
+                {
+                    "urlTitle": "Gradient Generator",
+                    "url": "https://cssgradient.io/"
+                },
+                {
+                    "urlTitle": "Gradient Generator (Doodad)",
+                    "url": "https://doodad.dev/gradient-generator/"
+                },
+                {
+                    "urlTitle": "Generators (CSS, HTML)",
+                    "url": "https://webcode.tools/"
+                },
+                {
+                    "urlTitle": "QR Code",
+                    "url": "https://www.the-qrcode-generator.com/"
+                },
+                {
+                    "urlTitle": "FontAwesome Cheat Sheet",
+                    "url": "https://fontawesome.com/v5/cheatsheet/pro"
+                },
+                {
+                    "urlTitle": "Box Shadow",
+                    "url": "https://box-shadow.dev/"
+                },
+                {
+                    "urlTitle": "Online GIF Tools",
+                    "url": "https://onlinegiftools.com/analyze-gif"
+                },
+                {
+                    "urlTitle": "Can I Use",
+                    "url": "https://caniuse.com/"
+                }
+            ]
+        },
+        {
+            "category": "Online Apps",
+            "items": [
+                {
+                    "urlTitle": "Pixlr (Online Photo Editor)",
+                    "url": "https://pixlr.com"
+                },
+                {
+                    "urlTitle": "Photo Pea (Online Photo Editor)",
+                    "url": "https://www.photopea.com/"
+                }
+            ]
+        },
+        {
+            "category": "Desktop Software",
+            "items": [
+                {
+                    "urlTitle": "Adobe Creative Cloud",
+                    "url": "https://www.adobe.com/creativecloud.html"
+                },
+                {
+                    "urlTitle": "Adobe After Effects",
+                    "url": "https://www.adobe.com/products/aftereffects.html"
+                },
+                {
+                    "urlTitle": "Adobe Premiere Pro",
+                    "url": "https://www.adobe.com/products/premiere.html"
+                },
+                {
+                    "urlTitle": "Adobe Photoshop",
+                    "url": "https://www.adobe.com/products/photoshop.html"
+                },
+                {
+                    "urlTitle": "Adobe Illustrator",
+                    "url": "https://www.adobe.com/products/illustrator.html"
+                },
+                {
+                    "urlTitle": "Adobe Audition",
+                    "url": "https://www.adobe.com/products/audition.html"
+                },
+                {
+                    "urlTitle": "Luminar Neo",
+                    "url": "https://skylum.com/luminar"
+                },
+                {
+                    "urlTitle": "Davinci Resolve - Video",
+                    "url": "https://www.blackmagicdesign.com/products/davinciresolve"
+                },
+                {
+                    "urlTitle": "Blender (3D)",
+                    "url": "https://www.blender.org/"
+                },
+                {
+                    "urlTitle": "Inkscape - Vector",
+                    "url": "https://inkscape.org/"
+                },
+                {
+                    "urlTitle": "Glaxnimate - Vector",
+                    "url": "https://glaxnimate.mattbas.org/"
+                },
+                {
+                    "urlTitle": "KdenLive - Video",
+                    "url": "https://kdenlive.org/"
+                }
+            ]
+        },
+        {
+            "category": "Development Software",
+            "items": [
+                {
+                    "urlTitle": "Visual Studio Code",
+                    "url": "https://code.visualstudio.com/"
+                },
+                {
+                    "urlTitle": "Visual Studio",
+                    "url": "https://visualstudio.microsoft.com/downloads/"
+                },
+                {
+                    "urlTitle": "Syncovery (File Synchronization)",
+                    "url": "https://www.syncovery.com/"
+                },
+                {
+                    "urlTitle": "Fiddler (HTTP Inspector)",
+                    "url": "https://www.telerik.com/fiddler/"
+                },
+                {
+                    "urlTitle": "XYplorer (File Manager)",
+                    "url": "https://www.xyplorer.com/"
+                },
+                {
+                    "urlTitle": "NodeJS (JavaScript Runtime Environment)",
+                    "url": "https://nodejs.org/en"
+                },
+                {
+                    "urlTitle": "Git (Source Control)",
+                    "url": "https://git-scm.com/"
+                },
+                {
+                    "urlTitle": "Windows 10 (download)",
+                    "url": "https://www.microsoft.com/en-us/software-download/windows10"
+                }
+            ]
+        },
+        {
+            "category": "SVG",
+            "items": [
+                {
+                    "urlTitle": "Inkscape - SVG Editor Application",
+                    "url": "https://inkscape.org/"
+                },
+                {
+                    "urlTitle": "Glaxnimate - SVG Editor",
+                    "url": "https://glaxnimate.mattbas.org/"
+                },
+                {
+                    "urlTitle": "SVG Editor",
+                    "url": "https://svgedit.netlify.app/editor/index.html"
+                },
+                {
+                    "urlTitle": "Boxy SVG Editor",
+                    "url": "https://boxy-svg.com/app"
+                },
+                {
+                    "urlTitle": "Clippy (clippath editor)",
+                    "url": "https://bennettfeely.com/clippy/"
+                },
+                {
+                    "urlTitle": "SVG (Flaviocopes)",
+                    "url": "https://flaviocopes.com/svg/"
+                },
+                {
+                    "urlTitle": "SVG (JavaTPoint)",
+                    "url": "https://www.javatpoint.com/svg-tutorial"
+                },
+                {
+                    "urlTitle": "Learn SVG - Online Book",
+                    "url": "https://www.scribd.com/doc/58271695/Learn-SVG"
+                },
+                {
+                    "urlTitle": "SVG Blog",
+                    "url": "http://tavmjong.free.fr/blog/"
+                },
+                {
+                    "urlTitle": "SVG Basics",
+                    "url": "https://www.svgbasics.com/index.html"
+                }
+            ]
+        },
+        {
+            "category": "SVG Animation",
+            "items": [
+                {
+                    "urlTitle": "Signature Generator",
+                    "url": "https://signaturegenerator.com/"
+                },
+                {
+                    "urlTitle": "CodePen Example",
+                    "url": "https://codepen.io/chriscoyier/pen/DwVLpj"
+                },
+                {
+                    "urlTitle": "How It Works",
+                    "url": "https://www.toptal.com/front-end/svg-animation-guide"
+                },
+                {
+                    "urlTitle": "SVG Stroke Array",
+                    "url": "https://css-tricks.com/almanac/properties/s/stroke-dasharray/"
+                },
+                {
+                    "urlTitle": "SVGator",
+                    "url": "https://www.svgator.com/"
+                }
+            ]
+        },
+        {
+            "category": "MISCELLANEOUS",
+            "items": [
+                {
+                    "urlTitle": "JSON Crack",
+                    "url": "https://jsoncrack.com/editor"
+                },
+                {
+                    "urlTitle": "Tailwind CSS Creator",
+                    "url": "https://uicolors.app/create?ref=producthunt"
+                },
+                {
+                    "urlTitle": "Tailwind CSS",
+                    "url": "https://tailwindcss.com/"
+                },
+                {
+                    "urlTitle": "ProductHunt",
+                    "url": "https://www.producthunt.com"
+                },
+                {
+                    "urlTitle": "Shopify Dev",
+                    "url": "https://shopify.dev/"
+                },
+                {
+                    "urlTitle": "Zoo Printing",
+                    "url": "https://www.zooprinting.com/"
+                },
+                {
+                    "urlTitle": "Vite",
+                    "url": "https://vitejs.dev/"
+                },
+                {
+                    "urlTitle": "NPM",
+                    "url": "https://www.npmjs.com/"
+                },
+                {
+                    "urlTitle": "Wave Accounting",
+                    "url": "https://www.waveapps.com/"
+                }
+            ]
+        },
+        {
+            "category": "Javascript Libraries",
+            "items": [
+                {
+                    "urlTitle": "Scroll Magic",
+                    "url": "https://scrollmagic.io/"
+                },
+                {
+                    "urlTitle": "Video JS",
+                    "url": "https://videojs.com/"
+                }
+            ]
+        },
+        {
+            "category": "Animations",
+            "items": [
+                {
+                    "urlTitle": "Hamburger Animation",
+                    "url": "https://jonsuh.com/hamburgers/"
+                }
+            ]
+        },
+        {
+            "category": "CSS",
+            "items": [
+                {
+                    "urlTitle": "SCSS (SASS)",
+                    "url": "https://sass-lang.com/"
+                }
+            ]
+        },
+        {
+            "category": "Javascript Animation Libraries",
+            "items": [
+                {
+                    "urlTitle": "GreenSock (Animation)",
+                    "url": "https://greensock.com/"
+                },
+                {
+                    "urlTitle": "Three JS",
+                    "url": "https://threejs.org/"
+                },
+                {
+                    "urlTitle": "Motion One",
+                    "url": "https://motion.dev/"
+                },
+                {
+                    "urlTitle": "Pixi",
+                    "url": "https://pixijs.com/"
+                },
+                {
+                    "urlTitle": "Lax JS (Animation)",
+                    "url": "Lax.js"
+                },
+                {
+                    "urlTitle": "AOS (Animation)",
+                    "url": "https://michalsnik.github.io/aos/"
+                },
+                {
+                    "urlTitle": "SVG.JS (SVG Create & Animate)",
+                    "url": "https://svgjs.dev/docs/3.0/"
+                },
+                {
+                    "urlTitle": "Anime",
+                    "url": "https://animejs.com/"
+                },
+                {
+                    "urlTitle": "Aminate Style",
+                    "url": "https://animate.style/"
+                },
+                {
+                    "urlTitle": "TWO>JS",
+                    "url": "https://two.js.org/"
+                }
+            ]
+        },
+        {
+            "category": "Blender",
+            "items": [
+                {
+                    "urlTitle": "Blender",
+                    "url": "https://www.blender.org/"
+                },
+                {
+                    "urlTitle": "Infinigen",
+                    "url": "https://infinigen.org/"
+                },
+                {
+                    "urlTitle": "Sketchfab Models",
+                    "url": "https://sketchfab.com/tags/blender"
+                },
+                {
+                    "urlTitle": "Blenderkit (Models)",
+                    "url": "https://www.blenderkit.com/"
+                },
+                {
+                    "urlTitle": "Blender Youtube Channel",
+                    "url": "https://www.youtube.com/@BlenderOfficial"
+                },
+                {
+                    "urlTitle": "Blender Docs",
+                    "url": "https://docs.blender.org/manual/en/latest/interface/index.html"
+                },
+                {
+                    "urlTitle": "Blender Keyboard Shortcuts",
+                    "url": "https://www.katsbits.com/codex/shortcuts/"
+                }
+            ]
+        },
+        {
+            "category": "Studio",
+            "items": [
+                {
+                    "urlTitle": "Elgato",
+                    "url": "https://www.elgato.com/us/en"
+                },
+                {
+                    "urlTitle": "Insta360",
+                    "url": "https://www.insta360.com/product/insta360-link/"
+                },
+                {
+                    "urlTitle": "OBS",
+                    "url": "https://obsproject.com/"
+                },
+                {
+                    "urlTitle": "Vmix",
+                    "url": "https://www.vmix.com/"
+                },
+                {
+                    "urlTitle": "Ulanzi",
+                    "url": "https://www.ulanzi.com/"
+                },
+                {
+                    "urlTitle": "Camo",
+                    "url": "https://reincubate.com/camo/"
+                },
+                {
+                    "urlTitle": "Shure MV7",
+                    "url": "https://www.shure.com/en-US/products/microphones/mv7?variant=MV7-K"
+                },
+                {
+                    "urlTitle": "DJI Osmo",
+                    "url": "https://www.dji.com/osmo-mobile-6?site=brandsite&from=homepage"
+                },
+                {
+                    "urlTitle": "DJI RS 3 Pro",
+                    "url": "https://www.dji.com/rs-3-pro"
+                }
+            ]
+        },
+        {
+            "category": "CDN",
+            "items": [
+                {
+                    "urlTitle": "CDNJS",
+                    "url": "https://cdnjs.com/"
+                },
+                {
+                    "urlTitle": "JSDelivr",
+                    "url": "https://www.jsdelivr.com/"
+                }
+            ]
+        },
+        {
+            "category": "LLC & Corporation",
+            "items": [
+                {
+                    "urlTitle": "LLC University",
+                    "url": "https://www.llcuniversity.com/"
+                },
+                {
+                    "urlTitle": "Florida Secretary of State",
+                    "url": "https://dos.myflorida.com/sunbiz/"
+                },
+                {
+                    "urlTitle": "Oregon Secretary of State",
+                    "url": "https://sos.oregon.gov/business/Pages/default.aspx"
+                },
+                {
+                    "urlTitle": "California Secretary of State",
+                    "url": "hhttps://www.sos.ca.gov/business-programs/business-entities"
+                }
+            ]
+        }
+    ]
+}
