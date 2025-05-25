@@ -41,6 +41,10 @@
                     "url": "https://www.freepik.com/"
                 },
                 {
+                    "urlTitle": "Lucide Icons",
+                    "url": "https://lucide.dev/icons/"
+                },
+                {
                     "urlTitle": "Fontawesome",
                     "url": "https://fontawesome.com/"
                 },
@@ -96,6 +100,10 @@
                 {
                     "urlTitle": "JSFiddle",
                     "url": "https://jsfiddle.net/"
+                },
+                {
+                    "urlTitle": "PlayCode",
+                    "url": "https://playcode.io/"
                 },
                 {
                     "urlTitle": "CodePen",
@@ -412,6 +420,10 @@
                 {
                     "urlTitle": "SVG Pocket Guide",
                     "url": "https://svgpocketguide.com/"
+                },
+                {
+                    "urlTitle": "VectorArt AI",
+                    "url": "https://vectorart.ai/"
                 }
             ]
         },
@@ -740,6 +752,10 @@
                     "url": "https://jsoncrack.com/editor"
                 },
                 {
+                    "urlTitle": "ToDiagram",
+                    "url": "https://todiagram.com/"
+                },
+                {
                     "urlTitle": "Tailwind CSS Creator",
                     "url": "https://uicolors.app/create?ref=producthunt"
                 },
@@ -844,7 +860,7 @@
                     "url": "https://animate.style/"
                 },
                 {
-                    "urlTitle": "TWO>JS",
+                    "urlTitle": "TWO.JS",
                     "url": "https://two.js.org/"
                 }
             ]
@@ -920,6 +936,10 @@
                 {
                     "urlTitle": "DJI RS 3 Pro",
                     "url": "https://www.dji.com/rs-3-pro"
+                },
+                {
+                    "urlTitle": "NDI Tools",
+                    "url": "https://ndi.video/tools/"
                 }
             ]
         },
@@ -944,6 +964,10 @@
                     "url": "https://www.llcuniversity.com/"
                 },
                 {
+                    "urlTitle": "California Secretary of State",
+                    "url": "https://www.sos.ca.gov/business-programs/business-entities"
+                },
+                {
                     "urlTitle": "Florida Secretary of State",
                     "url": "https://dos.myflorida.com/sunbiz/"
                 },
@@ -952,8 +976,8 @@
                     "url": "https://sos.oregon.gov/business/Pages/default.aspx"
                 },
                 {
-                    "urlTitle": "California Secretary of State",
-                    "url": "hhttps://www.sos.ca.gov/business-programs/business-entities"
+                    "urlTitle": "Washington Secretary of State",
+                    "url": "https://ccfs.sos.wa.gov/#/"
                 }
             ]
         }

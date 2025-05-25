@@ -6,6 +6,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="/webIcon.svg" type="image/svg+xml">
 
     <!-- Choose the FontAwesome library you want to use from the list below. Comment-out the others -->
 
@@ -245,7 +246,7 @@
 </head>
 
 <body>
-    <div id="landingPage" class=" landingPage " onclick=" changeColorScheme() ">
+    <div id="landingPage" class=" landingPage">
         <div id="flexbox" class=" flexbox ">
         </div>
     </div>
@@ -253,65 +254,10 @@
     <script src="/main.js" type="module">
 
     </script>
-    <script>
-        const linksData = [
-            {
-                category: "About",
-                links: [
-                    {
-                        url: "",
-                        description: "This is a resource consisting of links to various websites that I use for my projects. I will be adding more links as I find them. If you have any suggestions, please let me know."
-                    }
-                ]
-            },
-            {
-                category: "Amazing Websites",
-                links: [
-                    { url: "https://minhpham.design/", description: "Minh Phan Design" },
-                    { url: "https://michaelpumo.com/", description: "Michael Pumo" },
-                    { url: "https://intothetrenches.1917.movie/", description: "1917 Movie" },
-                    { url: "https://godly.website/", description: "Godly Website" },
-                    { url: "", description: "" }
-                ]
-            },
-            {
-                category: "Images & Fonts",
-                links: [
-                    { url: "https://pixabay.com/videos/", description: "Pixabay - Free Videos" },
-                    { url: "https://www.pexels.com/", description: "Pexels - Free Images & Videos" },
-                    { url: "https://www.vecteezy.com/", description: "Vecteezy - Free Images, Vector Art & Videos" },
-                    { url: "https://www.freepik.com/", description: "FreePik" },
-                    { url: "https://fontawesome.com/", description: "Fontawesome" },
-                    { url: "https://fonts.google.com/", description: "Google Fonts" },
-                    { url: "https://stock.adobe.com/", description: "Adobe Stock" },
-                    { url: "https://fontsource.org/", description: "Font Source" },
-                    { url: "https://fontconverter.com/", description: "Font Converter" },
-                    { url: "https://everythingfonts.com/", description: "Everything Fonts" },
-                    { url: "https://unsplash.com/", description: "UnSplash" },
-                    { url: "", description: "" }
-                ]
-            },
-            {
-                category: "Resources",
-                links: [
-                    { url: "https://console.firebase.google.com/", description: "Google Firebase Console" },
-                    { url: "https://console.developers.google.com/", description: "Google Developers Console" },
-                    { url: "https://portal.azure.com/", description: "Azure Portal" },
-                    { url: "https://chat.openai.com/", description: "ChatGPT" },
-                    { url: "https://github.com/", description: "Github" },
-                    { url: "https://jsfiddle.net/", description: "JSFiddle" },
-                    { url: "https://codepen.io/", description: "CodePen" },
-                    { url: "https://trello.com/", description: "Trello" },
-                    { url: "https://learn.microsoft.com/en-us/windows/powertoys/", description: "Microsoft PowerToys" },
-                    { url: "", description: "" }
-                ]
-            }
-            // ...additional categories and links...
-        ];
-    </script>
+
     <script>
         async function populateFlexbox() {
-            const response = await fetch('websites.json');
+            const response = await fetch('/json/websites.json');
             const data = await response.json();
 
             const flexbox = document.getElementById('flexbox');
