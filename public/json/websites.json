@@ -581,6 +581,10 @@
                 {
                     "urlTitle": "Photo Pea (Online Photo Editor)",
                     "url": "https://www.photopea.com/"
+                },
+                {
+                    "urlTitle": "Graphite (Online Vector & Photo Editor)",
+                    "url": "https://graphite.rs/"
                 }
             ]
         },
@@ -978,6 +982,55 @@
                 {
                     "urlTitle": "Washington Secretary of State",
                     "url": "https://ccfs.sos.wa.gov/#/"
+                }
+            ]
+        },
+        {
+            "category": "Commands",
+            "items": [
+                {
+                    "urlTitle": " $ npm install",
+                    "url": ""
+                },
+                {
+                    "urlTitle": " $ npm install -g npx",
+                    "url": ""
+                },
+                {
+                    "urlTitle": "$ npm install -g firebase-tools",
+                    "url": ""
+                },
+                {
+                    "urlTitle": "$ firebase login",
+                    "url": ""
+                },
+                {
+                    "urlTitle": "$ firebase init",
+                    "url": ""
+                },
+                {
+                    "urlTitle": "$ firebase deploy",
+                    "url": ""
+                },
+                {
+                    "urlTitle": "$ npm create vite@latest",
+                    "url": ""
+                },
+                {
+                    "urlTitle": "$ npm run dev",
+                    "url": ""
+                },
+                {
+                    "urlTitle": "$ npm run build",
+                    "url": ""
+                },
+                {
+                    "urlTitle": "$ npm run preview",
+                    "url": ""
+                },
+                {
+                    "urlTitle": "$ Set-ExecutionPolicy RemoteSigned",
+                    "url": ""
                 }
             ]
         }
